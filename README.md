@@ -1,4 +1,4 @@
-# The-Elements-of-Computing-Systems
+# The elements of computing systems
 This repository contains the hdl implementations of all the chips projectwise.
 
 ## About
